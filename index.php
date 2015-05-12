@@ -1,5 +1,8 @@
 <?php
 
+// Julio Leonardo - baris 1/
+// Julio Leonardo - baris 2/
+
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
